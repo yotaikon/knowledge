@@ -1,0 +1,73 @@
+[
+  {
+    "text": "豆包MarsCode研习社基础篇QA文档 欢迎大家填写QA问题我们的老师会在直播末尾解答哦 欢迎填写调研问卷帮助我们改进的更好",
+    "metadata": {
+      "file_extension": ".docx",
+      "file_path": ".\\「豆包MarsCode」研习社【基础篇】QA文档.docx",
+      "file_type": ".docx",
+      "created_time": 1756660529.287898,
+      "total_chunks": 1,
+      "chunk_index": 0,
+      "file_size": 5510,
+      "modified_time": 1733106108.0,
+      "file_name": "「豆包MarsCode」研习社【基础篇】QA文档.docx"
+    },
+    "distance": 0.5779377818107605
+  },
+  {
+    "text": "汽车零部件线圈生产线停机时间研究 本研究主要关注汽车零部件生产过程中线圈生产线的停机时间问题 通过分析生产数据我们发现停机时间主要来源于设备故障维护保养和人员操作等因素 为了减少停机时间我们提出了以下改进措施 1. 定期设备维护和预防性保养 2. 操作人员技能培训 3. 生产流程优化 4. 备件库存管理优化 这些措施的实施预计可以将停机时间减少30以上",
+    "metadata": {
+      "file_type": ".txt",
+      "chunk_index": 0,
+      "file_path": ".\\汽车零部件研究.txt",
+      "file_name": "汽车零部件研究.txt",
+      "total_chunks": 1
+    },
+    "distance": 0.5948466062545776
+  },
+  {
+    "text": "测试集上达到了SOTA水平 AI数据分析产品上线 原生版本规划 昇腾原生7B模型研发 Thank You.",
+    "metadata": {
+      "file_type": ".pdf",
+      "modified_time": 1733709556.0,
+      "total_chunks": 3,
+      "file_name": "AIGCode&Ascend.pdf",
+      "file_path": ".\\AIGCode&Ascend.pdf",
+      "chunk_index": 2,
+      "file_size": 1656361,
+      "file_extension": ".pdf",
+      "created_time": 1756660529.304887
+    },
+    "distance": 0.5981974601745605
+  },
+  {
+    "text": "PDF文件: 关于减少汽车零部件线圈生产线停机时间的研究报告.pdf - 需要安装PyPDF2或pdftotext工具",
+    "metadata": {
+      "chunk_index": 0,
+      "created_time": 1756660529.4238646,
+      "file_size": 455020,
+      "modified_time": 1734687462.0,
+      "file_path": ".\\关于减少汽车零部件线圈生产线停机时间的研究报告.pdf",
+      "file_extension": ".pdf",
+      "file_name": "关于减少汽车零部件线圈生产线停机时间的研究报告.pdf",
+      "file_type": ".pdf",
+      "total_chunks": 1
+    },
+    "distance": 0.6092777252197266
+  },
+  {
+    "text": "PDF文件: 减少汽车零部件线圈生产线停机时间的研究 .pdf - 需要安装PyPDF2或pdftotext工具",
+    "metadata": {
+      "chunk_index": 0,
+      "file_type": ".pdf",
+      "file_extension": ".pdf",
+      "total_chunks": 1,
+      "created_time": 1756660529.4358578,
+      "file_path": ".\\减少汽车零部件线圈生产线停机时间的研究 .pdf",
+      "file_size": 5477028,
+      "modified_time": 1734943300.0,
+      "file_name": "减少汽车零部件线圈生产线停机时间的研究 .pdf"
+    },
+    "distance": 0.6247064471244812
+  }
+]

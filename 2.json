@@ -1,0 +1,73 @@
+[
+  {
+    "text": "豆包MarsCode研习社基础篇QA文档 欢迎大家填写QA问题我们的老师会在直播末尾解答哦 欢迎填写调研问卷帮助我们改进的更好",
+    "metadata": {
+      "modified_time": 1733106108.0,
+      "file_type": ".docx",
+      "total_chunks": 1,
+      "file_path": ".\\「豆包MarsCode」研习社【基础篇】QA文档.docx",
+      "chunk_index": 0,
+      "file_size": 5510,
+      "file_extension": ".docx",
+      "created_time": 1756660529.287898,
+      "file_name": "「豆包MarsCode」研习社【基础篇】QA文档.docx"
+    },
+    "distance": 0.6591496467590332
+  },
+  {
+    "text": "图片文件: 日语中表示可能的语法.jpeg - 需要安装pytesseract和Pillow",
+    "metadata": {
+      "file_name": "日语中表示可能的语法.jpeg",
+      "file_size": 1424023,
+      "chunk_index": 0,
+      "created_time": 1756660529.5408287,
+      "file_type": ".jpeg",
+      "file_extension": ".jpeg",
+      "modified_time": 1734690098.0,
+      "file_path": ".\\日语中表示可能的语法.jpeg",
+      "total_chunks": 1
+    },
+    "distance": 0.7692977786064148
+  },
+  {
+    "text": "豆包MarsCode是一个强大的AI编程助手能够帮助开发者提高编程效率 它支持多种编程语言包括PythonJavaScriptJava等 主要功能包括  代码生成和补全  代码审查和优化建议  问题诊断和解决方案  文档生成 使用豆包MarsCode可以显著提高开发效率减少编程错误",
+    "metadata": {
+      "chunk_index": 0,
+      "file_type": ".txt",
+      "file_name": "豆包MarsCode介绍.txt",
+      "total_chunks": 1,
+      "file_path": ".\\豆包MarsCode介绍.txt"
+    },
+    "distance": 0.7725808620452881
+  },
+  {
+    "text": "PDF文件: 考试.pdf - 需要安装PyPDF2或pdftotext工具",
+    "metadata": {
+      "file_path": ".\\考试.pdf",
+      "file_size": 405925,
+      "file_extension": ".pdf",
+      "modified_time": 1727068732.0,
+      "file_name": "考试.pdf",
+      "created_time": 1756660529.4558325,
+      "file_type": ".pdf",
+      "total_chunks": 1,
+      "chunk_index": 0
+    },
+    "distance": 0.7728311419487
+  },
+  {
+    "text": "PDF文件: 如何使用Google AI Studio进行模型训练.pdf - 需要安装PyPDF2或pdftotext工具",
+    "metadata": {
+      "file_path": ".\\如何使用Google AI Studio进行模型训练.pdf",
+      "modified_time": 1732613498.0,
+      "chunk_index": 0,
+      "file_name": "如何使用Google AI Studio进行模型训练.pdf",
+      "file_extension": ".pdf",
+      "file_type": ".pdf",
+      "total_chunks": 1,
+      "file_size": 142710,
+      "created_time": 1756660529.5528357
+    },
+    "distance": 0.7787723541259766
+  }
+]
